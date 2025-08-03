@@ -76,7 +76,7 @@ Apply changes
 source ~/.bashrc
 ```
 ### Firestarter Usage
-`**Note**`: Firestarter commands use kebab-case (e.g., `new-user`, `upload-file`)
+**`Note`**: Firestarter commands use kebab-case (e.g., `new-user`, `upload-file`)
 
 Showing you how to setup your account, explore all other features of the `CLI` yourself, they are pretty easy to use 🫡
 
