@@ -61,7 +61,7 @@ pipe --version
 Clone the repository
 ```
 git clone https://github.com/PipeNetwork/pipe.git
-cd pipe/pipe-cli
+cd pipe
 ```
 Install pipe-cli globally on your system
 ```
