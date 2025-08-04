@@ -65,7 +65,7 @@ cd pipe
 ```
 Install pipe-cli globally on your system
 ```
-cargo install --path .
+cargo install --path ~/pipe/
 ```
 ```
 export PATH="$HOME/.cargo/bin:$PATH"
