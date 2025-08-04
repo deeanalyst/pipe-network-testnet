@@ -80,3 +80,9 @@ source ~/.bashrc
 
 Showing you how to setup your account, explore all other features of the `CLI` yourself, they are pretty easy to use 🫡
 
+Test the CLI
+```
+pipe
+```
+You should get this below
+<img width="400" height="400" alt="Screenshot 2025-08-04 134232" src="https://github.com/user-attachments/assets/ba713ede-9e65-441e-98ad-ef3f23e6c90f" />
