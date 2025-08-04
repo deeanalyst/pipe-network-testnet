@@ -98,6 +98,8 @@ pipe login <your_username>
 
 > Extract your Solana `pubkey` from when you first registered as a `new-user`, go to [Solana Devnet Faucet](https://faucet.solana.com/), connect your github and claim enough faucet for testing (5 $SOL -is what I always get)
 
+Now that you have gotten some tokens, you can now make uploads, downloads, encryptions and decryptions, etc.
+
 Register your referrer and generate your referral code. You can use mine `DEEANALY-J7XZ`
 ```
 pipe referral apply DEEANALY-J7XZ
@@ -110,8 +112,6 @@ Swap $SOL for $PIPE tokens which would be the means of payment for uploading, en
 ```
 pipe swap-sol-for-pipe <amount>
 ```
-Now that you have gotten some tokens, you can now make uploads, downloads, encryptions and decryptions, etc.
-
 ##### Things to Note Before Firstarter test Operations
 - For every file or folder you want to perform any actions on for which Firestarter was built, make sure the file is in the `pipe` folder before you perform the operation.
 - You must rename the file.
